@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  background-color: grey;
+  border: solid black;
+  width: 800px;
+  height: 800px;
+  flex-wrap: wrap;
+}
+
+.square {
+  background-color: rgb(233, 83, 83);
+}
